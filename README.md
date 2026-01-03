@@ -41,7 +41,7 @@ To run the generator, simply execute the main.py script:
 
 Python
 
-# In main.py
+# In crew.py
 result = crew.kickoff(inputs={'topic': 'AI VS ML VS DL vs Data Science'})
 print(result)
 📝 Output
